@@ -11,20 +11,20 @@
     "format:fix": "biome format --write ."
   },
   "dependencies": {
-    "@expo/metro-runtime": "~3.2.3",
-    "expo": "~51.0.31",
-    "expo-status-bar": "~1.12.1",
-    "nativewind": "^2.0.11",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-native": "0.74.5",
-    "react-native-web": "~0.19.12"
+    "@expo/metro-runtime": "4.0.1",
+    "expo": "~52.0.46",
+    "expo-status-bar": "2.0.1",
+    "nativewind": "^4.1.23",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-native": "0.76.9",
+    "react-native-web": "0.19.13"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.8.3",
-    "tailwindcss": "3.3.2",
     "@babel/core": "^7.25.2",
-    "@types/react": "~18.2.79",
+    "@biomejs/biome": "^1.8.3",
+    "@types/react": "18.3.12",
+    "tailwindcss": "3.3.2",
     "typescript": "^5.5.4"
   },
   "private": true

@@ -1,5 +1,5 @@
 import { StatusBar } from "expo-status-bar";
-import { StyleSheet, View } from "react-native";
+import { View } from "react-native";
 import { ImageViewer } from "./components/ImageViewer";
 import { Button } from "./components/Button";
 import PlaceholderImage from "./assets/images/background-image.png";
